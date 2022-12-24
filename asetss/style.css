@@ -111,7 +111,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   position: absolute;
-  bottom: 30;
+  bottom: 30px;
   left: 0;
   right: 0;
   color: white;
